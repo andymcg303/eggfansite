@@ -1,4 +1,13 @@
-.navbar-brand{
+body { 
+    padding-top: 70px;
+}
+
+.navbar-brand, .egg-type{
     font-family: 'Norican', cursive;
     font-size: 1.5rem;
 }
+
+.egg-type{
+    font-size: 2.5rem;
+}
+
